@@ -1,7 +1,7 @@
 - Bones, soc en Joan Mendo.
 - Estic interesat en l'indústria dels videojocs i la seva creació, especificament la part técnica de la seva programació.
 - Actualment estic estudiant un cicle superior de Desenvolupament d'aplicacions multiplataforma, especialitzat en la creació  de videojocs.
-- Actualment, busco poder treballar en qualsevol sector dins l'indústria per aprendre i obtenir experiència.
+- Actualment, no busco feina que estci treballant.
 - Per contactar-me, utilitza el meu mail joan.mendo.7e7@itb.cat
 
 <!---
